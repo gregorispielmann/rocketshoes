@@ -24,7 +24,7 @@ module.exports = {
     'no-param-reassign': 'off',
     'no-console': 'off',
     'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }],
-    'react-hooks/rules-of-hookes': 'error',
+    'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn'
   }
 };
