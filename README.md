@@ -24,7 +24,7 @@ To start json server on 3333 port locally
 
 ## LIVE DEMO
 
-Check LIVE DEMO <a href="https://rocketshoesbygreg.netlify.com/" target="_blank" rel="noopener noreferrer">LIVE DEMO ON NETLIFY</a>
+<a href="https://rocketshoesbygreg.netlify.com/" target="_blank" rel="noopener noreferrer">LIVE DEMO ON NETLIFY</a>
 
 ### Demo
 
