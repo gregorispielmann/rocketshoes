@@ -10,6 +10,12 @@ Part of studies in Rocketseat Bootcamp 9.0
 
 ## Screenshots
 
+<div style="display: flex; justify-content: center">
+
 <img src="screenshots/rocketshoes.gif"/>
+
+## Print screen
+
 <img src="screenshots/screenshot1.png"/>
 <img src="screenshots/screenshot2.png"/>
+</div>
