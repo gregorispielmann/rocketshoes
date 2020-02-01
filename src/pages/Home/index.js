@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { bindActionCreators } from 'redux';
 
 import { MdAddShoppingCart } from 'react-icons/md';
 
