@@ -22,9 +22,9 @@ To start json server on 3333 port locally
 
 ```
 
-## LIVE DEMO
+## Live Demo
 
-☞ <a href="https://rocketshoesbygreg.netlify.com/" target="_blank" rel="noopener noreferrer">LIVE DEMO ON NETLIFY</a>
+👉 <a href="https://rocketshoesbygreg.netlify.com/" target="_blank" rel="noopener noreferrer">LIVE DEMO ON NETLIFY</a>
 
 ### Demo
 
