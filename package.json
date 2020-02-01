@@ -1,6 +1,7 @@
 {
   "name": "rocketshoes",
-  "homepage": ".",
+  "start_url": ".",
+  "homepage": "https://rocketshoesbygreg.netlify.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
