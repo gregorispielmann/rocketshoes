@@ -11,3 +11,5 @@ Part of studies in Rocketseat Bootcamp 9.0
 ## Screenshots
 
 <img src="screenshots/rocketshoes.gif"/>
+<img src="screenshots/screenshot1.png"/>
+<img src="screenshots/screenshot2.png"/>
