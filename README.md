@@ -12,7 +12,7 @@ Part of studies in Rocketseat Bootcamp 9.0
 
 <div style="display: flex; justify-content: center">
 
-<img src="screenshots/rocketshoes.gif"/>
+<center><img src="screenshots/rocketshoes.gif"/></center>
 
 ## Print screen
 
