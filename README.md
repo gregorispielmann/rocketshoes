@@ -7,3 +7,7 @@ A little shop page made with React, Redux, Redux Saga, Styled Components, JSON S
 Part of studies in Rocketseat Bootcamp 9.0
 
 ### <a href="https://rocketshoesbygreg.netlify.com/">Live Demo</a>
+
+## Screenshots
+
+<img src="screenshots/rocketshoes.gif"/>
