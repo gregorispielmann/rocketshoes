@@ -12,7 +12,7 @@ Clone the repo and then use this commands:
 
 ```
 $ yarn install
-To install the dependencies
+To install dependencies
 
 $ yarn start
 To start react scripts
@@ -22,7 +22,9 @@ To start json server on 3333 port locally
 
 ```
 
-### Check LIVE DEMO <a href="https://rocketshoesbygreg.netlify.com/" target="_blank" rel="noopener noreferrer">click here</a>
+### LIVE DEMO
+
+Check LIVE DEMO <a href="https://rocketshoesbygreg.netlify.com/" target="_blank" rel="noopener noreferrer">click here</a>
 
 ## Demo
 
