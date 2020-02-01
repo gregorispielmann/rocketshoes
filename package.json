@@ -1,5 +1,6 @@
 {
-  "name": "modulo07",
+  "name": "rocketshoes",
+  "homepage": "https://rocketshoesbygreg.netlify.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
